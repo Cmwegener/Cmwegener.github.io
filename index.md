@@ -13,7 +13,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 
 ### Mesocosm experiment
 ##### Figure: set-up and design
-##### Interactive 3D graph: [reproductive output of _Fucus distichus_ under different salinity and pH conditions] (test/try.html)
+##### Interactive 3D graph: [reproductive output of _Fucus distichus_ under different salinity and pH conditions](test/try.html)
 
 ### Additional analysis
 ##### Interactive map: distribution of _Fucus distichus-_ in San Francisco Estuary
