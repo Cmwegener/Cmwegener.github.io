@@ -6,6 +6,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Completed R markdowns
 #### Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png),[Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)
 #### Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)
+#### Oogonia per meter: [graph](https://cmwegener.github.io/thesis/oogonia_per_meter.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_meter.html)
 
 
 
