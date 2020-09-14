@@ -8,6 +8,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)
 #### Oogonia per meter: [graph](https://cmwegener.github.io/thesis/oogonia_per_meter.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_meter.html)
 #### Oogonia per conceptacle: [graph](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.html)
+#### Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_ra.html)
 
 
 
