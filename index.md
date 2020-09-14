@@ -4,9 +4,10 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 
 **Thesis overview:** My thesis focuses on the _Fucus distichus_ in San Francisco Estuary, looking at both its current status and how climate change could affect it in the future. To accomplish this there were two parts to my thesis: field work and an experiment. The field work took place at four field sites in Central San Francisco Bay with monthly surveys from June 2018 to Septemeber 2019. Population data was recorded in the field and samples were taken to be processed in the lab. The experiment manipulated carbonate chemistry and salinity levels to study its affect on the reproductive output of _Fucus distichus_.
 #### Completed R markdowns
-#### Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png),[Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)
+#### Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)
 #### Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)
 #### Oogonia per meter: [graph](https://cmwegener.github.io/thesis/oogonia_per_meter.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_meter.html)
+#### Oogonia per conceptacle: [graph](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.html)
 
 
 
