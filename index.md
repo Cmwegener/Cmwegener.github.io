@@ -12,10 +12,10 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Percent Reproductive Dry Weight: [graph](https://cmwegener.github.io/thesis/percent_repro_dryweight.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_repro_dryweight.html)
 #### Reproductive dry weight vs reproductive apices: [graph](https://cmwegener.github.io/thesis/drw_vs_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/drw_vs_ra.html)
 #### Reproductive percent cover in field: [graph](https://cmwegener.github.io/thesis/repro_state.png), [Rmarkdown](https://cmwegener.github.io/thesis/repro_state.html)
-#### Bouy data (just temp for now): [graph](https://cmwegener.github.io/thesis/bouy_data.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data.html)
+#### Bouy data: temperature and salinity: [graph](https://cmwegener.github.io/thesis/bouy_data.png), [Rmarkdown temperature](https://cmwegener.github.io/thesis/bouy_data_temp.html), [Rmarkdown salinity]((https://cmwegener.github.io/thesis/bouy_data_sal.html)
 
 #### To do:
-#### Map: field sites and bouys
+#### Map: field sites and bouys 
 #### Table: length of _Fucus distichus_ beds in 2018 vs 2019
 #### Graph: 2017-2019 Salinity profile of central SFE
 ## Mesocosm experiment
