@@ -10,6 +10,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Oogonia per conceptacle: [graph](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.html)
 #### Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_ra.html)
 #### Percent Reproductive Dry Weight: [graph](https://cmwegener.github.io/thesis/percent_repro_dryweight.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_repro_dryweight.html)
+#### Reproductive dry weight vs reproductive apices: [graph](https://cmwegener.github.io/thesis/dwr_vs_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwr_vs_ra.html)
 
 
 
