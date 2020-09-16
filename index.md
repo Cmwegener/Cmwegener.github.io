@@ -15,6 +15,10 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Bouy data- temperature and salinity: [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
 #### 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
 
+## Discussion
+#### Comparative reproductive phenology table: [table]https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
+
+
 #### To do:
 #### Map: field sites and bouys 
 #### Table: length of _Fucus distichus_ beds in 2018 vs 2019
