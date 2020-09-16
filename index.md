@@ -13,7 +13,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Reproductive dry weight vs reproductive apices: [graph](https://cmwegener.github.io/thesis/drw_vs_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/drw_vs_ra.html)
 #### Reproductive percent cover in field: [graph](https://cmwegener.github.io/thesis/repro_state.png), [Rmarkdown](https://cmwegener.github.io/thesis/repro_state.html)
 #### Bouy data- temperature and salinity: [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
-#### 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table.png), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
+#### 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
 
 #### To do:
 #### Map: field sites and bouys 
