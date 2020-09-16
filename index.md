@@ -16,7 +16,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
 
 ## Discussion
-#### Comparative reproductive phenology table: [table]https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
+#### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
 
 
 #### To do:
