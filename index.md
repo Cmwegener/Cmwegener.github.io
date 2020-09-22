@@ -31,3 +31,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 ## Additional analysis
 #### Interactive map: distribution of _Fucus distichus-_ in San Francisco Estuary
 #### Table: comparative reproductive phenology of _Fucus distichus_
+
+#### Notes on graphs
+#### consistent color scheme
+#### consistent labeling (dates)
