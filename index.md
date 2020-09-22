@@ -14,6 +14,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Reproductive percent cover in field: [graph](https://cmwegener.github.io/thesis/repro_state.png), [Rmarkdown](https://cmwegener.github.io/thesis/repro_state.html)
 #### Bouy data- temperature and salinity: [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
 #### 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
+#### Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)
 
 ## Discussion
 #### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
