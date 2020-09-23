@@ -24,6 +24,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
 #### Temperature Hach readings: [graph](https://cmwegener.github.io/thesis/temp_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_hach.html)
 #### Dissolved Oxygen Hach readings: [graph](https://cmwegener.github.io/thesis/do_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/do_hach.html)
+#### Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwrpng), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
 
 
 ## Discussion
