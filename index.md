@@ -18,6 +18,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)
 
 ## Experiment
+#### Interaction between salinity and pH on oogonia released: [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
 #### Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
 #### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
 #### Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
@@ -26,6 +27,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Dissolved Oxygen Hach readings: [graph](https://cmwegener.github.io/thesis/do_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/do_hach.html)
 #### Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwrpng), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
 #### Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/exp_percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_ra.html)
+
 
 
 ## Discussion
