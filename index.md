@@ -7,7 +7,7 @@
 
 ### Getting oriented: map and characterizing Central San Francisco Bay
 #### Map: field sites and bouys: NA
-#### Bouy data- temperature and salinity: [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
+#### Bouy data (need to add air temperature): [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
 
 ### Populuation analysis
 #### Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)
