@@ -19,7 +19,8 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 
 ## Experiment
 #### Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
-### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
+#### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
+#### Salinity: [graph](https://cmwegener.github.io/thesis/salinity.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity.html)
 
 ## Discussion
 #### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
