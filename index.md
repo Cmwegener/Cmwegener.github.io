@@ -8,6 +8,7 @@
 ### Getting oriented: map and characterizing Central San Francisco Bay
 #### Map: field sites and bouys: NA
 #### Bouy data (need to add air temperature): [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
+#### Interactive map- Distribution of *Fucus distichus* in San Francisco Bay: [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html)
 
 ### Populuation analysis
 #### Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)
@@ -52,7 +53,7 @@
 
 ## Discussion
 #### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
-#### Interactive map: distribution of _Fucus distichus-_ in San Francisco Estuary
+
 
 
 #### Notes on graphs
