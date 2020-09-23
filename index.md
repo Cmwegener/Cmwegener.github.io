@@ -22,6 +22,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
 #### Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
 #### pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
+#### Temperature Hach readings: [graph](https://cmwegener.github.io/thesis/temp_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_hach.html)
 
 
 ## Discussion
