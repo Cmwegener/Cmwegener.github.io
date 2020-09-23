@@ -20,7 +20,7 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 ## Experiment
 #### Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
 #### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
-#### Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity.html)
+#### Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
 #### pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
 
 
