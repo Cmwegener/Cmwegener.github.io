@@ -17,6 +17,9 @@ Eventually I'd like to have all my code, data analysis and figures here. This sh
 #### Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)
 #### Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)
 
+## Experiment
+#### Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
+
 ## Discussion
 #### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
 
