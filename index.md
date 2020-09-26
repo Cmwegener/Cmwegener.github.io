@@ -28,7 +28,7 @@
 **Varifying lab methods**  
   - Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)  
 
-### Mesocosm Experiment: Efects of pH and salinity on oogonia released
+## Mesocosm Experiment: Efects of pH and salinity on oogonia released
 **Experimental set up and design**
   - coming soon
 
