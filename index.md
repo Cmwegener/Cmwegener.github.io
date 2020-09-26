@@ -4,13 +4,15 @@
 
 
 ### Field work: Characterizing *Fucus distichus* in Central San Francisco Bay  
-**Getting oriented: map and characterizing Central San Francisco Bay**  
+**Getting oriented: map and characterizing Central San Francisco Bay**
   - Map: field sites and bouys: NA
   - Bouy data (need to add air temperature): [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
-  - Interactive map- Distribution of *Fucus distichus* in San Francisco Bay: [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html)  
+  - Interactive map- Distribution of *Fucus distichus* in San Francisco Bay: [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html)
+  
 **Populuation analysis**  
    - Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)  
-   - Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)  
+   - Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)
+   
 **Reproductive phenology**  
   - Oogonia per meter: [graph](https://cmwegener.github.io/thesis/oogonia_per_meter.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_meter.html)  
   - Oogonia per conceptacle: [graph](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_conceptacle.html)  
@@ -18,9 +20,11 @@
   - Percent Reproductive Dry Weight: [graph](https://cmwegener.github.io/thesis/percent_repro_dryweight.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_repro_dryweight.html)  
   - Reproductive percent cover in field: [graph](https://cmwegener.github.io/thesis/repro_state.png), [Rmarkdown](https://cmwegener.github.io/thesis/repro_state.html)  
   - Reproductive dry weight vs reproductive apices: [graph](https://cmwegener.github.io/thesis/drw_vs_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/drw_vs_ra.html)
-  - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)    
+  - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)
+  
 **Opportunistic comparasion of 2018 versus 2019**  
-  - 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)  
+  - 2018 vs 2019 *Fucus distichus* bed length table: [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html)
+  
 **Varifying lab methods**  
   - Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)  
 
