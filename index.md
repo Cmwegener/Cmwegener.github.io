@@ -44,7 +44,7 @@
 **Experimental thalli**
   - Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
   - PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
-  - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwrpng), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
+  - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
   - Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/exp_percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_ra.html)
 
 ## Discussion
