@@ -28,29 +28,27 @@
 **Varifying lab methods**  
   - Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)  
 
-### Mesocosm Experiment: Efects of pH and salinity on oogonia released 
+### Mesocosm Experiment: Efects of pH and salinity on oogonia released
+**Experimental set up and design**
+  - coming soon
 
-### Experimental set up and design: NA
-#### coming soon
+**Oogonia released under different pH and salinity conditions**
+  - Interaction between salinity and pH on oogonia released: [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
+  
+**Unit conditions**
+  - Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
+  - pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
+  - Temperature Hach readings: [graph](https://cmwegener.github.io/thesis/temp_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_hach.html)
+  - Dissolved Oxygen Hach readings: [graph](https://cmwegener.github.io/thesis/do_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/do_hach.html)
 
-### Oogonia released under different pH and salinity conditions
-#### Interaction between salinity and pH on oogonia released: [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
-
-### Unit conditions
-#### Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
-#### pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
-#### Temperature Hach readings: [graph](https://cmwegener.github.io/thesis/temp_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_hach.html)
-#### Dissolved Oxygen Hach readings: [graph](https://cmwegener.github.io/thesis/do_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/do_hach.html)
-
-### Experimental thalli
-#### Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
-#### PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
-#### Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwrpng), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
-#### Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/exp_percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_ra.html)
-
+**Experimental thalli**
+  - Thalli weight: [graph](https://cmwegener.github.io/thesis/thalli_weight.png), [Rmarkdown](https://cmwegener.github.io/thesis/thalli_weight.html)
+  - PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
+  - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwrpng), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
+  - Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/exp_percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_ra.html)
 
 ## Discussion
-#### Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
+  - Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
 
 
 
