@@ -3,7 +3,7 @@
 **Thesis overview:** My thesis focuses on the _Fucus distichus_ in San Francisco Estuary, looking at both its current status and how climate change could affect it in the future. To accomplish this there were two parts to my thesis: field work and an experiment. The field work took place at four field sites in Central San Francisco Bay with monthly surveys from June 2018 to Septemeber 2019. Population data was recorded in the field and samples were taken to be processed in the lab. The mesocosm experiment manipulated carbonate chemistry and salinity levels to study its affect on the reproductive output (oogonia) of _Fucus distichus_.
 
 
-### Field work: Characterizing *Fucus distichus* in Central San Francisco Bay  
+## Field work: Characterizing *Fucus distichus* in Central San Francisco Bay  
 **Getting oriented: map and characterizing Central San Francisco Bay**
   - Map: field sites and bouys: NA
   - Bouy data (need to add air temperature): [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
