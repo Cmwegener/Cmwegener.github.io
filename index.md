@@ -12,6 +12,9 @@
 **Populuation analysis**  
    - Total, large thalli and small thaiil density: [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html)  
    - Percent cover: [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html)
+ 
+**Reproductive anatomy of *Fucus distichus***
+   - Reproducitve anatomy and methods: [diagram](https://cmwegener.github.io/thesis/repro_anatomy.pdf)
    
 **Reproductive phenology**  
   - Oogonia per meter: [graph](https://cmwegener.github.io/thesis/oogonia_per_meter.png), [Rmarkdown](https://cmwegener.github.io/thesis/oogonia_per_meter.html)  
