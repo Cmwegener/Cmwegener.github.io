@@ -30,7 +30,7 @@
 
 ## Mesocosm Experiment: Efects of pH and salinity on oogonia released
 **Experimental set up and design**
-  - coming soon
+  - Mesocosm design: [diagram] ((https://cmwegener.github.io/thesis/exp_set_up.pdf)
 
 **Oogonia released under different pH and salinity conditions**
   - Interactive effect of salinity and pH on oogonia release: [graph](https://cmwegener.github.io/thesis/3d_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
