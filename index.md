@@ -48,6 +48,9 @@
   - PAR: [graph](https://cmwegener.github.io/thesis/par.png), [Rmarkdown](https://cmwegener.github.io/thesis/par.html)
   - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/exp_percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_dwr.html)
   - Percent Reproductive Apices: [graph](https://cmwegener.github.io/thesis/exp_percent_ra.png), [Rmarkdown](https://cmwegener.github.io/thesis/exp_percent_ra.html)
+ 
+ **Verifying Hach readings**
+   - Hach vs discrete pH: [graph](https://cmwegener.github.io/thesis/hach_vs_discrete.png), [Rmarkdown](https://cmwegener.github.io/thesis/hach_vs_discrete.html)
 
 ## Discussion
   - Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
