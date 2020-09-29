@@ -29,7 +29,7 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
   - Percent reproductive dry weight per thalli: [graph](https://cmwegener.github.io/thesis/percent_dwr.png), [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)
   
 **Opportunistic comparasion of 2018 versus 2019**  
-  - 2018 vs 2019 *Fucus distichus* bed length [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html): This was an opportunist comparison of *F. distichus* in May 2018 versus May 2019. In May 2018, I scouted Central SFE for potential field sites of *F. distichus* looking for dense beds of at least 10 m in length. When I found dense beds, I recorded the GPS end points of the beds and in May 2019 I revisited the same sites. I used the “measure” tool on ArcGIS online to convert GPS points into lengths along the shoreline.
+  - **2018 vs 2019 *Fucus distichus* bed length** [table](https://cmwegener.github.io/thesis/length_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/length_table.html): This was an opportunist comparison of *F. distichus* in May 2018 versus May 2019. In May 2018, I scouted Central SFE for potential field sites of *F. distichus* looking for dense beds of at least 10 m in length. When I found dense beds, I recorded the GPS end points of the beds and in May 2019 I revisited the same sites. I used the “measure” tool on ArcGIS online to convert GPS points into lengths along the shoreline.
   
 **Varifying lab methods**  
   - Total dry weight vs total wet weight: [graph](https://cmwegener.github.io/thesis/dwt_vs_wwt.png), [Rmarkdown](https://cmwegener.github.io/thesis/dwt_vs_wwt.html)  
