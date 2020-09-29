@@ -5,7 +5,7 @@
 
 ## Field work: Characterizing *Fucus distichus* in Central San Francisco Bay  
 **Getting oriented: map and characterizing Central San Francisco Bay**
-  - Map: field sites and bouys: NA
+  - Map: field sites and bouys: [map](https://cmwegener.github.io/thesis/map_sites.pdf)
   - Bouy data (need to add air temperature): [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
   - Interactive map- Distribution of *Fucus distichus* in San Francisco Bay: [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html)
   
