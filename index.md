@@ -33,7 +33,8 @@
   - coming soon
 
 **Oogonia released under different pH and salinity conditions**
-  - Interaction between salinity and pH on oogonia released: [graph](https://cmwegener.github.io/thesis/3d_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
+  - Interactive effect of salinity and pH on oogonia release: [graph](https://cmwegener.github.io/thesis/3d_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/exp_3d_plot.html)
+  -Effect of temperature and dissolved oxygen on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_oog.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_oog.html) 
   
 **Unit conditions**
   - Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
