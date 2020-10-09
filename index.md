@@ -13,7 +13,7 @@
   
 **Populuation analysis**  
   - **Percent cover** [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html): Standard quadrat transect sampling was used. Parallel to the shore, we placed a 15m transect through the middle of a healthy *F. distichus* population. The transect location was consistently within 0.5m throughout the sampling period. Random points (n=10) were selected along the transect and a 0.25m^2 quadrat was used for sampling. We measured percent cover in each quadrat.
-  - **Total, large thalli and small thaiil density** [graph](https://cmwegener.github.io/thesis/density_graph.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html): Density was measured by counting the number of holdfasts in the quadrat. Individuals with holdfasts outside of the quadrat were not counted. Individuals were then assigned into one of two size classes: small with individuals less than 12cm in length and large individuals longer than 12cm in length. 
+  - **Total, large thalli and small thaiil density** [graph](https://cmwegener.github.io/thesis/all_density.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html): Density was measured by counting the number of holdfasts in the quadrat. Individuals with holdfasts outside of the quadrat were not counted. Individuals were then assigned into one of two size classes: small with individuals less than 12cm in length and large individuals longer than 12cm in length. 
  
 **Reproductive anatomy of *Fucus distichus***
    - Reproducitve anatomy and methods: [diagram](https://cmwegener.github.io/thesis/repro_anatomy.pdf)
@@ -42,7 +42,7 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
   - In-unit seaweed platforms: [diagram](https://cmwegener.github.io/thesis/seaweed_platforms.pdf)
 
 **Oogonia released under different pH and salinity conditions**
-  - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/surface_pic.png)
+  - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.png)
   - Effect of temperature and dissolved oxygen on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_oog.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_oog.html) 
   
 **Unit conditions**
