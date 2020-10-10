@@ -46,7 +46,7 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
   - Effect of temperature and dissolved oxygen on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_oog.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_oog.html) 
   
 **Unit conditions**
-  - Unit conditions: [graph](https://cmwegener.github.io/thesis/salinity_hach.png)all_unit_conditions.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.png)all_unit_conditions.html)
+  - Unit conditions: [graph](https://cmwegener.github.io/thesis/all_unit_conditions.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_unit_conditions.png)
   - Salinity Hach readings: [graph](https://cmwegener.github.io/thesis/salinity_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/salinity_hach.html)
   - pH Hach readings: [graph](https://cmwegener.github.io/thesis/ph_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/ph_hach.html)
   - Temperature Hach readings: [graph](https://cmwegener.github.io/thesis/temp_hach.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_hach.html)
