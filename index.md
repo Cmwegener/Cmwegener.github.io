@@ -43,7 +43,7 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
 
 **Oogonia released under different pH and salinity conditions**
   - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.jpeg)
-  - Effect of temperature and dissolved oxygen on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_oog.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_oog.html) 
+  - Effect of temperature, dissolved oxygen, ph, and salinity on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_sal_ph_oo.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_sal_ph_oo.html) 
   
 **Unit conditions**
   - Unit conditions: [graph](https://cmwegener.github.io/thesis/all_unit_conditions.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_unit_conditions.png)
