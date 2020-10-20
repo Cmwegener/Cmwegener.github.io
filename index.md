@@ -12,6 +12,7 @@
   - **Exploring ways to remove outliers** [Rmarkdown](https://cmwegener.github.io/thesis/filter_outliers.html)
   - **Cleaning Salinity data** [China Camp](https://cmwegener.github.io/thesis/cc_sal_clean.html), [Tiburon](https://cmwegener.github.io/thesis/eos_sal_clean.html), [Richardson Bay](https://cmwegener.github.io/thesis/rb_sal_clean.html), [Fort Point](https://cmwegener.github.io/thesis/fp_sal_clean.html)
   - **Salinity in Central SFE 2017-2018** [graph](https://cmwegener.github.io/thesis/sal_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_all.html)
+  - **Rolling 30 day mean as a way of removing outliers**: [graph](https://cmwegener.github.io/thesis/sal_rolling_avg.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_rolling_avg.html)
   
 **Populuation analysis**  
   - **Percent cover** [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html): Standard quadrat transect sampling was used. Parallel to the shore, we placed a 15m transect through the middle of a healthy *F. distichus* population. The transect location was consistently within 0.5m throughout the sampling period. Random points (n=10) were selected along the transect and a 0.25m^2 quadrat was used for sampling. We measured percent cover in each quadrat.
