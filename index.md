@@ -14,8 +14,8 @@
   - **Salinity in Central SFE 2017-2018** [graph](https://cmwegener.github.io/thesis/sal_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_all.html)
   - **Rolling 30 day mean as a way of removing outliers**: [graph](https://cmwegener.github.io/thesis/sal_rolling_avg.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_rolling_avg.html), [flagged data removed](https://cmwegener.github.io/thesis/sal_flag.html)
   - **Hourly Salinity** [Rmarkdown](https://cmwegener.github.io/thesis/hourly_sal.html)
-  - **pH** [removing outliers](https://cmwegener.github.io/thesis/ph_clean.html), [hourly pH](https://cmwegener.github.io/thesis/hourly_ph.html)
-  - **Dissolved oxygen** [removing outliers](https://cmwegener.github.io/thesis/do_clean.html), [hourly pH](https://cmwegener.github.io/thesis/hourly_do.html)
+  - **pH** [removing outliers](https://cmwegener.github.io/thesis/ph_clean.html), [hourly](https://cmwegener.github.io/thesis/hourly_ph.html)
+  - **Dissolved oxygen** [removing outliers](https://cmwegener.github.io/thesis/do_clean.html), [hourly](https://cmwegener.github.io/thesis/hourly_do.html)
   
 **Populuation analysis**  
   - **Percent cover** [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html): Standard quadrat transect sampling was used. Parallel to the shore, we placed a 15m transect through the middle of a healthy *F. distichus* population. The transect location was consistently within 0.5m throughout the sampling period. Random points (n=10) were selected along the transect and a 0.25m^2 quadrat was used for sampling. We measured percent cover in each quadrat.
