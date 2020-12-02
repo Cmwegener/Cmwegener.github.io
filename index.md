@@ -6,12 +6,9 @@
 ## Field work: Characterizing *Fucus distichus* in Central San Francisco Bay  
 **Getting oriented: map and characterizing Central San Francisco Bay**
   - **Field site and bouy locations** [map](https://cmwegener.github.io/thesis/map_sites.pdf): We conducted monthly ecological *F. distichus* surveys at four sites from June 2018 to September 2019. Surveys were conducted at low tide once a month and at least three weeks apart between months. When we first surveying potential field sites, we referenced iNaturalist to see where *F. distichus* has been found. We picked four accessible representative sites to capture the variability of Central San Francisco Estuary (SFE). Field sites were located in Central SFE along the salinity gradient at Horseshoe Bay (37.83, -122.48), Brickyard Park (37.88, -122.50), Point Chauncy (37.89, -122.45), and Paradise Cay (37.92, -122.48). Each site has a monitoring buoy relatively close to each one so that we could characterize the salinity and temperature of each site. 
-  - **San Francisco Estuary Water data** [graph](https://cmwegener.github.io/thesis/bouy_data_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_all.html)
-  - **Distribution of *Fucus distichus* in San Francisco Bay** [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html): Distribution of *F. distichus* in San Francisco Estuary was determined by downloading 299 observations of *Fucus distichus* from iNaturalist (May 15, 2020). iNaturalist is a citizen science platform where users upload pictures of species with linked GPS coordinated. Only research grade observations of F. distichus in SFE on iNaturalist where downloaded. I then assessed each photo and assigned it as “attached,” “wrack,” or “unclear.” I then mapped this database in a map on R (package “leaflet”). [inat only](https://cmwegener.github.io/thesis/inat_only.html), [Josselyn West, 1985 only](https://cmwegener.github.io/thesis/jw_only.html)
-  - **Salinity** [Rmarkdown](https://cmwegener.github.io/thesis/salinity.html)
-  - **pH** [removing outliers](https://cmwegener.github.io/thesis/ph_clean.html), [hourly](https://cmwegener.github.io/thesis/hourly_ph.html)
-  - **Dissolved oxygen** [removing outliers](https://cmwegener.github.io/thesis/do_clean.html), [hourly](https://cmwegener.github.io/thesis/hourly_do.html)
-  
+   - **Distribution of *Fucus distichus* in San Francisco Bay** [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html): Distribution of *F. distichus* in San Francisco Estuary was determined by downloading 299 observations of *Fucus distichus* from iNaturalist (May 15, 2020). iNaturalist is a citizen science platform where users upload pictures of species with linked GPS coordinated. Only research grade observations of F. distichus in SFE on iNaturalist where downloaded. I then assessed each photo and assigned it as “attached,” “wrack,” or “unclear.” I then mapped this database in a map on R (package “leaflet”). [inat only](https://cmwegener.github.io/thesis/inat_only.html), [Josselyn West, 1985 only](https://cmwegener.github.io/thesis/jw_only.html)
+   - **Environmental data** [all], [salinity], [pH], [dissolved oxygen], [water temeperature]
+ 
 **Populuation analysis**  
   - **Percent cover** [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html): Standard quadrat transect sampling was used. Parallel to the shore, we placed a 15m transect through the middle of a healthy *F. distichus* population. The transect location was consistently within 0.5m throughout the sampling period. Random points (n=10) were selected along the transect and a 0.25m^2 quadrat was used for sampling. We measured percent cover in each quadrat.
   - **Total, large thalli and small thaiil density** [graph](https://cmwegener.github.io/thesis/all_density.png), [Rmarkdown](https://cmwegener.github.io/thesis/all_density.html): Density was measured by counting the number of holdfasts in the quadrat. Individuals with holdfasts outside of the quadrat were not counted. Individuals were then assigned into one of two size classes: small with individuals less than 12cm in length and large individuals longer than 12cm in length. 
@@ -65,13 +62,3 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
 
 ## Discussion
   - Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
-
-
-
-## Old drafts ##
-  - **Bouy data dive** [graph](https://cmwegener.github.io/thesis/bouy_data_dive.png), [Rmarkdown](https://cmwegener.github.io/thesis/bouy_data_dive.html)
-  - **Exploring ways to remove outliers** [Rmarkdown](https://cmwegener.github.io/thesis/filter_outliers.html)
-  - **Cleaning Salinity data** [China Camp](https://cmwegener.github.io/thesis/cc_sal_clean.html), [Tiburon](https://cmwegener.github.io/thesis/eos_sal_clean.html), [Richardson Bay](https://cmwegener.github.io/thesis/rb_sal_clean.html), [Fort Point](https://cmwegener.github.io/thesis/fp_sal_clean.html)
-  - **Salinity in Central SFE 2017-2018** [graph](https://cmwegener.github.io/thesis/sal_all.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_all.html)
-  - **Rolling 30 day mean as a way of removing outliers**: [graph](https://cmwegener.github.io/thesis/sal_rolling_avg.png), [Rmarkdown](https://cmwegener.github.io/thesis/sal_rolling_avg.html), [flagged data removed](https://cmwegener.github.io/thesis/sal_flag.html)
-  - **Hourly Salinity** [Rmarkdown](https://cmwegener.github.io/thesis/hourly_sal.html)
