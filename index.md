@@ -10,6 +10,7 @@
    - **Environmental data** [all](https://cmwegener.github.io/thesis/envi_graphs.html), [salinity](https://cmwegener.github.io/thesis/salinity.html), [pH](https://cmwegener.github.io/thesis/ph.html), [dissolved oxygen](https://cmwegener.github.io/thesis/dissolved.oxygen.html), [water temeperature](https://cmwegener.github.io/thesis/water.temp.html), [metadata](https://cmwegener.github.io/thesis/envi.metadata.html)
    - **Environmental and field data analysis** [data set-up](https://cmwegener.github.io/thesis/set-up.html)
    - [data question](https://cmwegener.github.io/thesis/eos_data_check.html) 
+   - [pH vs dissolved oxygen](https://cmwegener.github.io/thesis/ph.v.do.html) 
  
 **Populuation analysis**  
   - **Percent cover** [graph](https://cmwegener.github.io/thesis/percentcover.png), [Rmarkdown](https://cmwegener.github.io/thesis/percentcover.html): Standard quadrat transect sampling was used. Parallel to the shore, we placed a 15m transect through the middle of a healthy *F. distichus* population. The transect location was consistently within 0.5m throughout the sampling period. Random points (n=10) were selected along the transect and a 0.25m^2 quadrat was used for sampling. We measured percent cover in each quadrat.
