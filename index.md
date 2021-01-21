@@ -9,7 +9,7 @@
    - **Distribution of *Fucus distichus* in San Francisco Bay** [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html): Distribution of *F. distichus* in San Francisco Estuary was determined by downloading 299 observations of *Fucus distichus* from iNaturalist (May 15, 2020). iNaturalist is a citizen science platform where users upload pictures of species with linked GPS coordinated. Only research grade observations of F. distichus in SFE on iNaturalist where downloaded. I then assessed each photo and assigned it as “attached,” “wrack,” or “unclear.” I then mapped this database in a map on R (package “leaflet”). [inat only](https://cmwegener.github.io/thesis/inat_only.html), [Josselyn West, 1985 only](https://cmwegener.github.io/thesis/jw_only.html)
    - **Environmental data** [all](https://cmwegener.github.io/thesis/envi_graphs.html), [salinity](https://cmwegener.github.io/thesis/salinity.html), [pH](https://cmwegener.github.io/thesis/ph.html), [dissolved oxygen](https://cmwegener.github.io/thesis/dissolved.oxygen.html), [water temeperature](https://cmwegener.github.io/thesis/water.temp.html), [metadata](https://cmwegener.github.io/thesis/envi.metadata.html)
    - **Environmental and field data analysis** [data set-up](https://cmwegener.github.io/thesis/set-up.html)
-   - [data question](https://cmwegener.github.io/thesis/eos_data_check.html) 
+   - [data question](https://cmwegener.github.io/thesis/eos_data_check.html), [revised](https://cmwegener.github.io/thesis/eos_new.html)
    - [pH vs dissolved oxygen](https://cmwegener.github.io/thesis/ph.v.do.html) 
  
 **Populuation analysis**  
