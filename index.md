@@ -7,7 +7,7 @@
 **Getting oriented: map and characterizing Central San Francisco Bay**
   - **Field site and bouy locations** [map](https://cmwegener.github.io/thesis/map_sites.pdf): We conducted monthly ecological *F. distichus* surveys at four sites from June 2018 to September 2019. Surveys were conducted at low tide once a month and at least three weeks apart between months. When we first surveying potential field sites, we referenced iNaturalist to see where *F. distichus* has been found. We picked four accessible representative sites to capture the variability of Central San Francisco Estuary (SFE). Field sites were located in Central SFE along the salinity gradient at Horseshoe Bay (37.83, -122.48), Brickyard Park (37.88, -122.50), Point Chauncy (37.89, -122.45), and Paradise Cay (37.92, -122.48). Each site has a monitoring buoy relatively close to each one so that we could characterize the salinity and temperature of each site. 
    - **Distribution of *Fucus distichus* in San Francisco Bay** [map](https://cmwegener.github.io/thesis/map_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/interactive_map.html): Distribution of *F. distichus* in San Francisco Estuary was determined by downloading 299 observations of *Fucus distichus* from iNaturalist (May 15, 2020). iNaturalist is a citizen science platform where users upload pictures of species with linked GPS coordinated. Only research grade observations of F. distichus in SFE on iNaturalist where downloaded. I then assessed each photo and assigned it as “attached,” “wrack,” or “unclear.” I then mapped this database in a map on R (package “leaflet”). [inat only](https://cmwegener.github.io/thesis/inat_only.html), [Josselyn West, 1985 only](https://cmwegener.github.io/thesis/jw_only.html)
-   - **Environmental data** [all](https://cmwegener.github.io/thesis/envi_graphs.html), [salinity](https://cmwegener.github.io/thesis/salinity.html), [pH](https://cmwegener.github.io/thesis/ph.html), [dissolved oxygen](https://cmwegener.github.io/thesis/dissolved.oxygen.html), [water temeperature](https://cmwegener.github.io/thesis/water.temp.html), [metadata](https://cmwegener.github.io/thesis/envi.metadata.html)
+   - **Environmental data** [data wrangling and final dataset] (https://cmwegener.github.io/thesis/environmental_data.html)
    - **Environmental and field data analysis** [data set-up](https://cmwegener.github.io/thesis/set-up.html), [linear model](https://cmwegener.github.io/thesis/analysis.html)
    - [data question](https://cmwegener.github.io/thesis/eos_data_check.html), [revised](https://cmwegener.github.io/thesis/eos_new.html)
    - [pH vs dissolved oxygen](https://cmwegener.github.io/thesis/ph.v.do.html) 
@@ -44,7 +44,7 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
   - In-unit seaweed platforms: [diagram](https://cmwegener.github.io/thesis/seaweed_platforms.pdf)
 
 **Oogonia released under different pH and salinity conditions**
-  - Calculations: [Rmarkdown)(https://cmwegener.github.io/thesis/meso_calc.html)
+  - Calculations: [Rmarkdown](https://cmwegener.github.io/thesis/meso_calc.html)
   - Heatmap: [Rmarkdown](https://cmwegener.github.io/thesis/heatmap.html)
   - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.jpeg)
   - Effect of temperature, dissolved oxygen, ph, and salinity on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_sal_ph_oo.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_sal_ph_oog.html)
@@ -67,3 +67,6 @@ Reproductive tissue allocation was assessed in two ways. First, reproductive tis
 
 ## Discussion
   - Comparative reproductive phenology table: [table](https://cmwegener.github.io/thesis/phenology_table_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/phenology_table.html)
+
+## Old drafts (double check before removing)
+  - Enviormental data [all](https://cmwegener.github.io/thesis/envi_graphs.html), [salinity](https://cmwegener.github.io/thesis/salinity.html), [pH](https://cmwegener.github.io/thesis/ph.html), [dissolved oxygen](https://cmwegener.github.io/thesis/dissolved.oxygen.html), [water temeperature](https://cmwegener.github.io/thesis/water.temp.html), [metadata](https://cmwegener.github.io/thesis/envi.metadata.html)
