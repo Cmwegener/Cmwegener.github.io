@@ -2,7 +2,7 @@
 
 **Thesis overview:** My thesis focuses on the _Fucus distichus_ in San Francisco Estuary, looking at both its current status and how climate change could affect it in the future. To accomplish this there were two parts to my thesis: field work and an experiment. The field work took place at four field sites in Central San Francisco Bay with monthly surveys from June 2018 to Septemeber 2019. Population data was recorded in the field and samples were taken to be processed in the lab. The mesocosm experiment manipulated carbonate chemistry and salinity levels to study its affect on the reproductive output (oogonia) of _Fucus distichus_.
 
-### **Research Questions**
+### **xResearch Questions**
 1. What is the distribution and abundance of _F. distichus_ in SFE and how does the population structure change over time? 
 2. What is the reproductive phenology of _F. distichus_ in SFE? 
 3. Is variation in salinity, air temperature, or pH associated with changes in abundances or reproductive effort of _F. distichus_ populations in SFE? 
@@ -10,9 +10,9 @@
 
 **Data and data calculations**
 **Data:** Both raw and calculated data available [here](https://github.com/Cmwegener/thesis/tree/master/data) 
-**Field data calculations:** [markdown with calculations]((https://cmwegener.github.io/thesis/calculations.html)
-**Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html), [air](https://cmwegener.github.io/thesis/air.html)
-**Lining up environmental data with field data:** [data set-up](https://cmwegener.github.io/thesis/envir.field.html)
+**Field data calculations:** [markdown with calculations]((https://cmwegener.github.io/thesis/calculations.html)  
+**Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html), [air](https://cmwegener.github.io/thesis/air.html)  
+**Lining up environmental data with field data:** [data set-up](https://cmwegener.github.io/thesis/envir.field.html)  
 
 
 ### **1. What is the distribution and abundance of _F. distichus_ in SFE and how does the population structure change over time?** 
