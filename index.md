@@ -13,6 +13,7 @@
 **Field data calculations:** [markdown with calculations](https://cmwegener.github.io/thesis/calculations.html)  
 **Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html), [air](https://cmwegener.github.io/thesis/air.html)  
 **Lining up environmental data with field data:** [data set-up](https://cmwegener.github.io/thesis/envir.field.html)  
+**Mesocosm calculations:**[Rmarkdown](https://cmwegener.github.io/thesis/meso_calc.html)
 
 
 ### **1. What is the distribution and abundance of _F. distichus_ in SFE and how does the population structure change over time?** 
@@ -48,7 +49,6 @@
   - In-unit seaweed platforms: [diagram](https://cmwegener.github.io/thesis/seaweed_platforms.pdf)
 
 **Oogonia released under different pH and salinity conditions**
-  - Calculations: [Rmarkdown](https://cmwegener.github.io/thesis/meso_calc.html)
   - Heatmap: [Rmarkdown](https://cmwegener.github.io/thesis/heatmap.html)
   - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.jpeg)
   - Effect of temperature, dissolved oxygen, ph, and salinity on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_sal_ph_oo.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_sal_ph_oog.html)
