@@ -8,7 +8,7 @@
 3. Is variation in salinity, air temperature, or pH associated with changes in abundances or reproductive effort of _F. distichus_ populations in SFE? 
 4. Do changes to estuarine salinity and pH influence the reproductive output of _F. distichus_?
 
-**Data and data calculations**
+### **Data and calculations**  
 **Data:** Both raw and calculated data available [here](https://github.com/Cmwegener/thesis/tree/master/data) 
 **Field data calculations:** [markdown with calculations]((https://cmwegener.github.io/thesis/calculations.html)  
 **Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html), [air](https://cmwegener.github.io/thesis/air.html)  
