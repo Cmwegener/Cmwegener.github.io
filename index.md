@@ -39,7 +39,7 @@
   - **Percent reproductive dry weight per thalli:** [Rmarkdown](https://cmwegener.github.io/thesis/percent_dwr.html)
 
 ### **3. Is variation in salinity, air temperature, or pH associated with changes in abundances or reproductive effort of _F. distichus_ populations in SFE?** 
-**Environmental data** [graphs](https://cmwegener.github.io/thesis/envi_graphs.html)  
+**Environmental data** [graphs](https://cmwegener.github.io/thesis/envi_graphs.html), [table](https://cmwegener.github.io/thesis/field_table.html) summarizing environmental conditions per site during field survey dates  
   - [pH vs dissolved oxygen](https://cmwegener.github.io/thesis/ph.v.do.html)
 
 ### 4. Do changes to estuarine salinity and pH influence the reproductive output of _F. distichus_?
