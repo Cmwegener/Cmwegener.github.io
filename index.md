@@ -11,7 +11,7 @@
 ### **Data and calculations**  
 **Data:** Both raw and calculated data available [here](https://github.com/Cmwegener/thesis/tree/master/data)  
 **Field data calculations:** [markdown with calculations](https://cmwegener.github.io/thesis/calculations.html)  
-**Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html), [air](https://cmwegener.github.io/thesis/air.html)  
+**Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html)
 **Lining up environmental data with field data:** [data set-up](https://cmwegener.github.io/thesis/envir.field.html)  
 **Mesocosm calculations:**[Rmarkdown](https://cmwegener.github.io/thesis/meso_calc.html)
 
@@ -79,5 +79,6 @@
   - Enviormental data [all](https://cmwegener.github.io/thesis/envi_graphs.html), [salinity](https://cmwegener.github.io/thesis/salinity.html), [pH](https://cmwegener.github.io/thesis/ph.html), [dissolved oxygen](https://cmwegener.github.io/thesis/dissolved.oxygen.html), [water temeperature](https://cmwegener.github.io/thesis/water.temp.html), [metadata](https://cmwegener.github.io/thesis/envi.metadata.html)
   - [data set-up](https://cmwegener.github.io/thesis/set-up.html)
   - [data question](https://cmwegener.github.io/thesis/eos_data_check.html), [revised](https://cmwegener.github.io/thesis/eos_new.html)
-  - [analysis attempt](https://cmwegener.github.io/thesis/analysis.html), [finding best fit](https://cmwegener.github.io/thesis/model_fuc_density.html), [new](https://cmwegener.github.io/thesis/analysis_attempt.html), 
+  - [analysis attempt](https://cmwegener.github.io/thesis/analysis.html), [finding best fit](https://cmwegener.github.io/thesis/model_fuc_density.html), [new](https://cmwegener.github.io/thesis/analysis_attempt.html) 
+  - [air temperature data and tide filtering](https://cmwegener.github.io/thesis/air.html), ended up merging this in the other environmental variable markdowns  
 
