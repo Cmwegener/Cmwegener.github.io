@@ -12,7 +12,7 @@
 **Data:** Both raw and calculated data available [here](https://github.com/Cmwegener/thesis/tree/master/data)    
 **Field data calculations:** [markdown with calculations](https://cmwegener.github.io/thesis/calculations.html)  
 **Environmental data wrangling:** [data wrangling and final dataset](https://cmwegener.github.io/thesis/environmental_data.html), some of the raw data sets I downloaded are too large to upload on GitHub so I [removed unneeded columns](https://cmwegener.github.io/thesis/smaller_data_sets.html)  
-**Filtering for tides:** [markdown.](https://cmwegener.github.io/thesis/envi_tides.html) Since _Fucus distichus_ is an intertidal species, it experiences periods of time out of the water. To address this, I filtered out water data (pH, salinity, and water temperature) when it was exposed (<1m). I did the opposite for air temperature, I filtered out data when it was underwater.
+**Filtering for tides:** [markdown.](https://cmwegener.github.io/thesis/envi_tides.html) Since _Fucus distichus_ is an intertidal species, it experiences periods of time out of the water. To address this, I filtered out water data (pH, salinity, and water temperature) when it was exposed (<1m). I did the opposite for air temperature, I filtered out data when it was underwater.  
 **Lining up environmental data with field data:** [data set-up](https://cmwegener.github.io/thesis/envir.field.html)  
 **Mesocosm calculations:**[Rmarkdown](https://cmwegener.github.io/thesis/meso_calc.html)  
 This is also the order I worked through data if you're interested in doing something similar.
