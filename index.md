@@ -53,8 +53,8 @@ This is also the order I worked through data if you're interested in doing somet
 
 **Oogonia released under different pH and salinity conditions**
   - Modeling: [Rmarkdown](https://cmwegener.github.io/thesis/meso_modeling.html)
-  - Heatmap: [Rmarkdown](https://cmwegener.github.io/thesis/heatmap.html)
-  - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.jpeg)
+  - 3D plot of unit salinity, pH, and oogonia released: [Rmarkdown](https://cmwegener.github.io/thesis/meso_3d_plot.html)
+  
   - Effect of temperature, dissolved oxygen, ph, and salinity on oogonia release: [graph](https://cmwegener.github.io/thesis/temp_do_sal_ph_oo.png), [Rmarkdown](https://cmwegener.github.io/thesis/temp_do_sal_ph_oog.html)
   
 **Unit conditions**
@@ -84,5 +84,8 @@ This is also the order I worked through data if you're interested in doing somet
   - [data set-up](https://cmwegener.github.io/thesis/set-up.html)
   - [data question](https://cmwegener.github.io/thesis/eos_data_check.html), [revised](https://cmwegener.github.io/thesis/eos_new.html)
   - [analysis attempt](https://cmwegener.github.io/thesis/analysis.html), [finding best fit](https://cmwegener.github.io/thesis/model_fuc_density.html), [new](https://cmwegener.github.io/thesis/analysis_attempt.html) 
-  - [air temperature data and tide filtering](https://cmwegener.github.io/thesis/air.html), ended up merging this in the other environmental variable markdowns  
+  - [air temperature data and tide filtering](https://cmwegener.github.io/thesis/air.html), ended up merging this in the other environmental variable markdowns
+  - Mesocosm 
+  - Heatmap: [Rmarkdown](https://cmwegener.github.io/thesis/heatmap.html)
+  - Interactive effect of salinity and pH on oogonia release: [graph with markers](https://cmwegener.github.io/thesis/sal_ph_oo_3d_pic.html), [graph with surface contour](https://cmwegener.github.io/thesis/sal_ph_oo_surface_pic.html), [Rmarkdown](https://cmwegener.github.io/thesis/sal_ph_oo.html), [potential picture for print](https://cmwegener.github.io/thesis/sal_ph_oo.jpeg)  
 
